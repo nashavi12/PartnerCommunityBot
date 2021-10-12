@@ -29,7 +29,7 @@
   "ButtonURL": "Button URL",
   "Next": "Next",
   "SendHeadingText": "Choose how you want to send your message",
-  "SendToGeneralChannel": "Send to specific channels",
+  "SendToGeneralChannel": "Send to specific channels created by Mindtree",
   "SentToGeneralChannel": "Sent to specified channels",
   "SendToGeneralChannelPlaceHolder": "Select team(s)",
   "NoMatchMessage": "We couldn't find any matches.",
